@@ -2,6 +2,7 @@
 Scrapes similar images from a website given two different image urls
 
 usage: main.py [-h] URL1 URL2 DIR
+
 usage out of python: python main.py [-h] URL1 URL2 DIR
 
 Scrape related images from a website given two image urls.
